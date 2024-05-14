@@ -46,6 +46,7 @@ public class loginPage {
 		driver.findElement(txt_password).sendKeys(password);
 		driver.findElement(btn_login).click();
 		System.out.println("test");
+		System.out.println("test");
             
 	}
 
